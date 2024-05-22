@@ -49,8 +49,9 @@ In order to achieve high accuracy during training process, it is important to tu
 ### <a name = "c22"></a> 2.2. Accuracy Results.
 Using Artificial Neural Network with appropriate hyperparameters, 98.xx% accuracy within 100 epochs has been achieved.
 #### Accuracy vs. Epoch Graph
-
+![accuracy](https://github.com/galymzhantore/hdr-ann-mnist/assets/148017825/84c7668a-fd5a-4851-81df-4d568d2c7482)
 #### Confusion Matrix
+![confmatrix](https://github.com/galymzhantore/hdr-ann-mnist/assets/148017825/6be238d5-df1f-4107-9eac-4bde0435d544)
 
 ## <a name = "c3"></a> 3. Web Part.
 ### FrontEnd (HTML + CSS + JS)
